@@ -12,6 +12,6 @@
 
 ### Texto simples
 
-A. Casa
-B. Comida
-C. Roupa
+1. Casa
+5. Comida
+99. Roupa
