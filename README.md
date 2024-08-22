@@ -9,3 +9,9 @@
 2. Treinando
    1. Praticar usando VSC
    2. Praticar usando Github
+
+### Texto simples
+
+A. Casa
+B. Comida
+C. Roupa
