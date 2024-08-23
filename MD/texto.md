@@ -106,6 +106,6 @@ Uma lista numerada é criada adicionando um número seguido por um ponto (deve-s
 
 ***
 
-### Inserindo um emoji num site ou algo.
+### Inserindo um emoji num site ou algo
 
 1. para inserir um emoji, digita : e adiciona o nome do emoji.
