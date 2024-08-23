@@ -70,10 +70,10 @@ Uma lista numerada é criada adicionando um número seguido por um ponto (deve-s
 
 #### Lista de compras
 
--[] Sofá
--[] Cadeiras
--[] Banheiras
--[x] Toalhas
+- [] Sofá
+- [] Cadeiras
+- [] Banheiras
+- [x] Toalhas
 
 ***
 
